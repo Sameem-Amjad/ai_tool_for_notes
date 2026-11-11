@@ -79,8 +79,8 @@ export function SettingsPage() {
                 <Label htmlFor="api-url">API Base URL</Label>
                 <Input
                   id="api-url"
-                  placeholder="https://api.ainotes.com"
-                  defaultValue="https://api.ainotes.com"
+                  placeholder="https://api.example.com"
+                  defaultValue="https://api.example.com"
                 />
               </div>
 
@@ -554,7 +554,7 @@ export function SettingsPage() {
                 <Input
                   id="admin-email"
                   type="email"
-                  defaultValue="admin@ainotes.com"
+                  defaultValue="admin@example.com"
                 />
               </div>
 

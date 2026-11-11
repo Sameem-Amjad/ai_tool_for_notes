@@ -99,7 +99,7 @@ export function DashboardLayout() {
               {sidebarOpen && (
                 <div className="flex-1">
                   <p className="text-sm font-medium text-gray-900">Admin</p>
-                  <p className="text-xs text-gray-500">admin@ainotes.com</p>
+                  <p className="text-xs text-gray-500">admin@example.com</p>
                 </div>
               )}
             </div>
